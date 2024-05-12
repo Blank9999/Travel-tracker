@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "f53a",
+      "cityName": "Toledo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-27T16:33:32.141Z",
+      "notes": "",
+      "position": {
+        "lat": "39.85072092501597",
+        "lng": "-3.9660644531250004"
+      }
+    },
+    {
+      "id": "982f",
+      "cityName": "Puertomingalvo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-27T20:28:12.356Z",
+      "notes": "",
+      "position": {
+        "lat": "40.34445080136368",
+        "lng": "-0.48614501953125006"
+      }
+    },
+    {
+      "id": "0c8a",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-27T21:03:23.304Z",
+      "notes": "",
+      "position": {
+        "lat": "40.04483182734435",
+        "lng": "-0.00274658203125"
+      }
+    },
+    {
+      "id": "379a",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-09T04:31:32.378Z",
+      "notes": "",
+      "position": {
+        "lat": "40.04194066100584",
+        "lng": "-0.03330230712890626"
+      }
+    },
+    {
+      "id": "5b9c",
+      "cityName": "Toledo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-09T04:31:54.009Z",
+      "notes": "",
+      "position": {
+        "lat": "39.85309305512312",
+        "lng": "-4.023742675781251"
+      }
+    }
+  ]
+}
